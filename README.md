@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a College Student who likes to code as a hobby; and I have my passion projects uploaded here! I'm open to any feedback, and I'd love to read what you have to say. I may not necessarily update each project regularly; but I'll try my best to keep updating them whenever I get the time to do so!
 
-Here's the link to [my Website](https://lightdrifter.github.io/). It's still in development, expect to be updated here when it is ready!
+Here's the link to [my Website](https://lightdrifter.github.io/home/). It's still in development, expect to be updated here when it is ready!
