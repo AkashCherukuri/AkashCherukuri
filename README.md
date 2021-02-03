@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I don't know what to write over here, so I guess this text will do.
+I don't know what to write over here, hope this text will do.
 
 [Here's](https://AkashCherukuri.github.io/home/) my website I guess.
