@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 
 I don't know what to write over here, hope this text will do.
 
-~~[Here's](https://AkashCherukuri.github.io/home/) my website I guess.~~
-The website is broken rn, will fix and update here.
+[Here's](https://AkashCherukuri.github.io/home/) my website I guess.
